@@ -3,7 +3,7 @@ title: Eric Ball
 email: ericball1229@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello! My name is Eric and welcome to my site.
-  I post some random things and makes some pretty cool things too.
+  I post some random things and make some pretty cool things too.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ericball.ninja" # the base hostname & protocol for your site
 twitter_username: ericball1229
