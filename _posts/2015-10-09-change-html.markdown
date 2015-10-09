@@ -6,7 +6,7 @@ date: 2015-10-9 18-49-00
 
 ---
 
-![Chrome Developer Tools](/img/DevTools.png)
+![Chrome Developer Tools](/img/DevTools.PNG)
 
 So, you want to mess with websites? It's actually really easy!
 Soon you will be messing with pages in no time!
@@ -27,7 +27,7 @@ Next, click the "Inspect Element" button in the top left.
 * Google Chrome:
     * ![Chrome Inspect Element Icon](/img/chrome-inspect-icon.png)
 * Mozilla Firefox:
-    * ![Firefox Inspect Element Icon](/img/firefox-inspect-icon.png)
+    * ![Firefox Inspect Element Icon](/img/firefox-inspect-icon.PNG)
     
 Next, click on a page element. Then, a line of code will be highlighted.
 You can change the code to your heart's content.
