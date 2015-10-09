@@ -1,11 +1,16 @@
 ---
+
 layout: page
 title: About
 permalink: /about/
+date: 2015-10-8 23-33-00
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! welcome to my page!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a intermediate web developer and pro gamer(Just kidding! I'm pretty bad at games but, I still love them!)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This page is a place for me to share my ideas with the world.
+
+<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS!</a></p>
