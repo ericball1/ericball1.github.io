@@ -34,4 +34,4 @@ You can change the code to your heart's content.
 
 Congratulations! You have changed your first web page!
 Please note that when you refresh the page all of your changes will be deleted!
-You can save your changes by right-clinking and selecting "Save-As."
+You can save your changes by right-clicking and selecting "Save-As."
