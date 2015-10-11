@@ -3,6 +3,7 @@
 layout: post
 title: How to change content on a website
 date: 2015-10-9 18-49-00
+comments: True
 
 ---
 
