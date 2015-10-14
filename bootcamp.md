@@ -4,6 +4,7 @@ title: Trey's Bootcamp Countdown
 layout: page
 permalink: /trey/
 date: 2015-10-13 20-21-00
+comments: True
 
 ---
 
